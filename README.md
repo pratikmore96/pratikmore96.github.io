@@ -1,2 +1,2 @@
-# pratikmore96.github.io
- Testing repo
+# aishwaryalonarkar.github.io
+Hi This Site is for Monitoring Cowin Slots Many of us have tried to book the Vaccine Slots and seen "No Slots Available" If you have also missed the available slots due to inconsistency of the time when the slots open, Here you can Enter the Pincode of your region and let the site monitor the slots for you every 2 minutes.. As soon as it finds an Available Slot the site will notify you with an email Don't worry if you missed the notification you can still see the logs and know exactly at what time the slot opens everyday !!! 😀 Do Leave a Star here if this helped you PS: Trust the tip :)
